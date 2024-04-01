@@ -1,0 +1,6 @@
+[submodule "source/cppcheck"]
+	path = source/cppcheck
+	url = https://github.com/danmar/cppcheck/
+[submodule "source/doxygen"]
+	path = source/doxygen
+	url = https://github.com/doxygen/doxygen.git
